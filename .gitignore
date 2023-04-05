@@ -1,0 +1,5 @@
+.env
+
+store status.csv
+dbcon.py
+test.py
