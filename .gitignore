@@ -1,5 +1,8 @@
 .env
 
 store status.csv
+Menu hours.csv
+timezones.csv
 dbcon.py
 test.py
+test.ipynb
